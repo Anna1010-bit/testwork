@@ -1098,10 +1098,12 @@ h1 span {
 
 	.price-card-text {
 		margin-top: 0px;
+		font-size: 14px;
 	}
 
 	.price-card-subtext {
-		line-height: 15px;
+		line-height: 14px;
+		margin-bottom: 5px;
 	}
 
 	.account-img {
